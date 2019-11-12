@@ -38,7 +38,7 @@ export const menuMap: any = [
 
 const router = new Router({
     // mode设置为"history"时，浏览器URL显示为(http://localhost:8000/firsts/first),设置“history”后链接中没有#
-    mode: 'history',
+    mode: 'hash',
     // base: process.env.BASE_URL,
     routes: [
         {
