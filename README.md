@@ -1,5 +1,8 @@
 # my-vue-typescript
 
+##项目的目的：练手TypeScript 
+项目使用的技术主要有：elementUI、typeScript、mockjs、Vuex等
+
 ## Project setup
 ```
 npm install
